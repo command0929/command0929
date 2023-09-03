@@ -2,4 +2,4 @@
 
 나가세요
 
-<img src="https://img.shields.io/badge/-GIVEME--STAR-red"/>
+<img src="https://img.shields.io/badge/logo-test-blue?logo=javascript"/>
