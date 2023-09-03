@@ -2,4 +2,4 @@
 
 나가세요
 
-<img src="https://img.shields.io/badge/-JS-yellow?logo=javascript"/>
+<img src="https://img.shields.io/badge/-JavaScript-gray?logo=javascript"/>
